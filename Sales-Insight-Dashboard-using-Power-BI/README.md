@@ -1,7 +1,7 @@
 # Sales Insight Dashboard using PowerBI
 ## Sales insights project Powerbi Dashboard
 
-This project I learn from code basics youtube channel. you can find link is below.
+This project's case study has been inspired by the code basics YouTube channel. you can find the link below.
 
 
 [code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
@@ -9,7 +9,7 @@ This project I learn from code basics youtube channel. you can find link is belo
 
 ## Problem statement
 
-AtliQ hardware is a company which delivers computer hardware & peripheral 
+AtliQ Hardware is a company that delivers computer hardware & peripheral 
 Manufacturers to his clients, which has several branches throughout India. The sales director of the company is facing a lot of
 issues in terms of understanding how the business is performing and what are all the problem company is
 facing currently as the sales are not as expected and declining gradually. And whenever he calls the regional managers
@@ -31,19 +31,19 @@ and success criteria  of our project.
 
 ## Steps Followed in this project
 
-1. Learned about AIMS grid for project planning.
+1. Learned about the AIMS grid for project planning.
 2. Used MySQL for retrieving the data from the database into Power BI.
 3. Data Cleaning in power query.
 4. Performed ETL process (Extract Transform and Load)
-5. Created measure for needs and used them for creating visuals in PowerBi.
+5. Created measures for needs and used them for creating visuals in PowerBi.
 6. In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
 7. Data Validation
 8. Data Modelling and Visualization.
 
 ## Major Changes/ Customizations Made
 
-1.Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
-2.Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
+1. Solved the ‘(blank)’ problem for the products section by deleting the original products table and adding the self-modified products table (where I have added the       Products ranging from Prod280 to Prod339 with their product type (random type- b/w ‘Own Brand’ and ‘Distribution’).
+2. Merged the original modified ‘sales_transaction’ table with the new ‘sales_transaction’ table having profit margin, cost price, etc.
 
 ###  Insights
   
@@ -55,7 +55,7 @@ and success criteria  of our project.
 5. In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
 6. In our top 5 products,the Prod318 is our highest product has generated total  ₹ 69M revenue generated in 4 years.
 7. In product type Distribution has generated the revenue of ₹494M and ownbrand revenue is ₹494M generated in entire 4 years.
-7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the least in              April 2020.
+7. Revenue Trend is showing that in June 2020 revenue has been decreased drastically compared to the revenue last year and the profit margin was the lowest in              April 2020.
   
 ### Key Learnings
 
